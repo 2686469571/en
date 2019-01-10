@@ -1,0 +1,128 @@
+D:\gib\MyMusic\MvcMusicStore\MvcMusicStore\bin\ApplicationInsights.config
+D:\gib\MyMusic\MvcMusicStore\MvcMusicStore\bin\roslyn\csc.exe
+D:\gib\MyMusic\MvcMusicStore\MvcMusicStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\gib\MyMusic\MvcMusicStore\MvcMusicStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\gib\MyMusic\MvcMusicStore\MvcMusicStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\gib\MyMusic\MvcMusicStore\MvcMusicStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\gib\MyMusic\MvcMusicStore\MvcMusicStore\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\gib\MyMusic\MvcMusicStore\MvcMusicStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\gib\MyMusic\MvcMusicStore\MvcMusicStore\bin\roslyn\System.Collections.Immutable.dll
+D:\gib\MyMusic\MvcMusicStore\MvcMusicStore\bin\roslyn\System.Reflection.Metadata.dll
+D:\gib\MyMusic\MvcMusicStore\MvcMusicStore\bin\roslyn\vbc.exe
+D:\gib\MyMusic\MvcMusicStore\MvcMusicStore\bin\roslyn\VBCSCompiler.exe
+D:\gib\MyMusic\MvcMusicStore\MvcMusicStore\bin\roslyn\VBCSCompiler.exe.config
+D:\gib\MyMusic\MvcMusicStore\MvcMusicStore\bin\MvcMusicStore.dll.config
+D:\gib\MyMusic\MvcMusicStore\MvcMusicStore\bin\MvcMusicStore.dll
+D:\gib\MyMusic\MvcMusicStore\MvcMusicStore\bin\MvcMusicStore.pdb
+D:\gib\MyMusic\MvcMusicStore\MvcMusicStore\bin\Antlr3.Runtime.dll
+D:\gib\MyMusic\MvcMusicStore\MvcMusicStore\bin\Microsoft.AI.Agent.Intercept.dll
+D:\gib\MyMusic\MvcMusicStore\MvcMusicStore\bin\Microsoft.AI.DependencyCollector.dll
+D:\gib\MyMusic\MvcMusicStore\MvcMusicStore\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\gib\MyMusic\MvcMusicStore\MvcMusicStore\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\gib\MyMusic\MvcMusicStore\MvcMusicStore\bin\Microsoft.AI.Web.dll
+D:\gib\MyMusic\MvcMusicStore\MvcMusicStore\bin\Microsoft.AI.WindowsServer.dll
+D:\gib\MyMusic\MvcMusicStore\MvcMusicStore\bin\Microsoft.ApplicationInsights.dll
+D:\gib\MyMusic\MvcMusicStore\MvcMusicStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\gib\MyMusic\MvcMusicStore\MvcMusicStore\bin\Microsoft.Web.Infrastructure.dll
+D:\gib\MyMusic\MvcMusicStore\MvcMusicStore\bin\Newtonsoft.Json.dll
+D:\gib\MyMusic\MvcMusicStore\MvcMusicStore\bin\System.Web.Helpers.dll
+D:\gib\MyMusic\MvcMusicStore\MvcMusicStore\bin\System.Web.Mvc.dll
+D:\gib\MyMusic\MvcMusicStore\MvcMusicStore\bin\System.Web.Optimization.dll
+D:\gib\MyMusic\MvcMusicStore\MvcMusicStore\bin\System.Web.Razor.dll
+D:\gib\MyMusic\MvcMusicStore\MvcMusicStore\bin\System.Web.WebPages.Deployment.dll
+D:\gib\MyMusic\MvcMusicStore\MvcMusicStore\bin\System.Web.WebPages.dll
+D:\gib\MyMusic\MvcMusicStore\MvcMusicStore\bin\System.Web.WebPages.Razor.dll
+D:\gib\MyMusic\MvcMusicStore\MvcMusicStore\bin\WebGrease.dll
+D:\gib\MyMusic\MvcMusicStore\MvcMusicStore\bin\Microsoft.AI.DependencyCollector.xml
+D:\gib\MyMusic\MvcMusicStore\MvcMusicStore\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\gib\MyMusic\MvcMusicStore\MvcMusicStore\bin\Microsoft.AI.Web.xml
+D:\gib\MyMusic\MvcMusicStore\MvcMusicStore\bin\Microsoft.AI.WindowsServer.xml
+D:\gib\MyMusic\MvcMusicStore\MvcMusicStore\bin\Microsoft.ApplicationInsights.xml
+D:\gib\MyMusic\MvcMusicStore\MvcMusicStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\gib\MyMusic\MvcMusicStore\MvcMusicStore\bin\System.Web.Helpers.xml
+D:\gib\MyMusic\MvcMusicStore\MvcMusicStore\bin\System.Web.Mvc.xml
+D:\gib\MyMusic\MvcMusicStore\MvcMusicStore\bin\System.Web.Optimization.xml
+D:\gib\MyMusic\MvcMusicStore\MvcMusicStore\bin\System.Web.Razor.xml
+D:\gib\MyMusic\MvcMusicStore\MvcMusicStore\bin\System.Web.WebPages.xml
+D:\gib\MyMusic\MvcMusicStore\MvcMusicStore\bin\System.Web.WebPages.Deployment.xml
+D:\gib\MyMusic\MvcMusicStore\MvcMusicStore\bin\System.Web.WebPages.Razor.xml
+D:\gib\MyMusic\MvcMusicStore\MvcMusicStore\bin\Antlr3.Runtime.pdb
+D:\gib\MyMusic\MvcMusicStore\MvcMusicStore\bin\Newtonsoft.Json.xml
+D:\gib\MyMusic\MvcMusicStore\MvcMusicStore\bin\zh-Hans\System.Web.Helpers.resources.dll
+D:\gib\MyMusic\MvcMusicStore\MvcMusicStore\bin\zh-Hans\System.Web.Mvc.resources.dll
+D:\gib\MyMusic\MvcMusicStore\MvcMusicStore\bin\zh-Hans\System.Web.Optimization.resources.dll
+D:\gib\MyMusic\MvcMusicStore\MvcMusicStore\bin\zh-Hans\System.Web.Razor.resources.dll
+D:\gib\MyMusic\MvcMusicStore\MvcMusicStore\bin\zh-Hans\System.Web.WebPages.resources.dll
+D:\gib\MyMusic\MvcMusicStore\MvcMusicStore\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+D:\gib\MyMusic\MvcMusicStore\MvcMusicStore\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+D:\gib\MyMusic\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.dll
+D:\gib\MyMusic\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.pdb
+D:\gib\MyMusic\MvcMusicStore\MvcMusicStore\bin\EntityFramework.dll
+D:\gib\MyMusic\MvcMusicStore\MvcMusicStore\bin\EntityFramework.SqlServer.dll
+D:\gib\MyMusic\MvcMusicStore\MvcMusicStore\bin\EntityFramework.xml
+D:\gib\MyMusic\MvcMusicStore\MvcMusicStore\bin\EntityFramework.SqlServer.xml
+D:\gib\MyMusic\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.csprojResolveAssemblyReference.cache
+C:\Users\26864\Documents\Tencent Files\2686469571\FileRecv\怀总\MvcMusicStore\MvcMusicStore\bin\ApplicationInsights.config
+C:\Users\26864\Documents\Tencent Files\2686469571\FileRecv\怀总\MvcMusicStore\MvcMusicStore\bin\roslyn\csc.exe
+C:\Users\26864\Documents\Tencent Files\2686469571\FileRecv\怀总\MvcMusicStore\MvcMusicStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\26864\Documents\Tencent Files\2686469571\FileRecv\怀总\MvcMusicStore\MvcMusicStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\26864\Documents\Tencent Files\2686469571\FileRecv\怀总\MvcMusicStore\MvcMusicStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\26864\Documents\Tencent Files\2686469571\FileRecv\怀总\MvcMusicStore\MvcMusicStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\26864\Documents\Tencent Files\2686469571\FileRecv\怀总\MvcMusicStore\MvcMusicStore\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\26864\Documents\Tencent Files\2686469571\FileRecv\怀总\MvcMusicStore\MvcMusicStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\26864\Documents\Tencent Files\2686469571\FileRecv\怀总\MvcMusicStore\MvcMusicStore\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\26864\Documents\Tencent Files\2686469571\FileRecv\怀总\MvcMusicStore\MvcMusicStore\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\26864\Documents\Tencent Files\2686469571\FileRecv\怀总\MvcMusicStore\MvcMusicStore\bin\roslyn\vbc.exe
+C:\Users\26864\Documents\Tencent Files\2686469571\FileRecv\怀总\MvcMusicStore\MvcMusicStore\bin\roslyn\VBCSCompiler.exe
+C:\Users\26864\Documents\Tencent Files\2686469571\FileRecv\怀总\MvcMusicStore\MvcMusicStore\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\26864\Documents\Tencent Files\2686469571\FileRecv\怀总\MvcMusicStore\MvcMusicStore\bin\MvcMusicStore.dll.config
+C:\Users\26864\Documents\Tencent Files\2686469571\FileRecv\怀总\MvcMusicStore\MvcMusicStore\bin\MvcMusicStore.dll
+C:\Users\26864\Documents\Tencent Files\2686469571\FileRecv\怀总\MvcMusicStore\MvcMusicStore\bin\MvcMusicStore.pdb
+C:\Users\26864\Documents\Tencent Files\2686469571\FileRecv\怀总\MvcMusicStore\MvcMusicStore\bin\Antlr3.Runtime.dll
+C:\Users\26864\Documents\Tencent Files\2686469571\FileRecv\怀总\MvcMusicStore\MvcMusicStore\bin\EntityFramework.dll
+C:\Users\26864\Documents\Tencent Files\2686469571\FileRecv\怀总\MvcMusicStore\MvcMusicStore\bin\EntityFramework.SqlServer.dll
+C:\Users\26864\Documents\Tencent Files\2686469571\FileRecv\怀总\MvcMusicStore\MvcMusicStore\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\26864\Documents\Tencent Files\2686469571\FileRecv\怀总\MvcMusicStore\MvcMusicStore\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\26864\Documents\Tencent Files\2686469571\FileRecv\怀总\MvcMusicStore\MvcMusicStore\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\26864\Documents\Tencent Files\2686469571\FileRecv\怀总\MvcMusicStore\MvcMusicStore\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\26864\Documents\Tencent Files\2686469571\FileRecv\怀总\MvcMusicStore\MvcMusicStore\bin\Microsoft.AI.Web.dll
+C:\Users\26864\Documents\Tencent Files\2686469571\FileRecv\怀总\MvcMusicStore\MvcMusicStore\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\26864\Documents\Tencent Files\2686469571\FileRecv\怀总\MvcMusicStore\MvcMusicStore\bin\Microsoft.ApplicationInsights.dll
+C:\Users\26864\Documents\Tencent Files\2686469571\FileRecv\怀总\MvcMusicStore\MvcMusicStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\26864\Documents\Tencent Files\2686469571\FileRecv\怀总\MvcMusicStore\MvcMusicStore\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\26864\Documents\Tencent Files\2686469571\FileRecv\怀总\MvcMusicStore\MvcMusicStore\bin\Newtonsoft.Json.dll
+C:\Users\26864\Documents\Tencent Files\2686469571\FileRecv\怀总\MvcMusicStore\MvcMusicStore\bin\System.Web.Helpers.dll
+C:\Users\26864\Documents\Tencent Files\2686469571\FileRecv\怀总\MvcMusicStore\MvcMusicStore\bin\System.Web.Mvc.dll
+C:\Users\26864\Documents\Tencent Files\2686469571\FileRecv\怀总\MvcMusicStore\MvcMusicStore\bin\System.Web.Optimization.dll
+C:\Users\26864\Documents\Tencent Files\2686469571\FileRecv\怀总\MvcMusicStore\MvcMusicStore\bin\System.Web.Razor.dll
+C:\Users\26864\Documents\Tencent Files\2686469571\FileRecv\怀总\MvcMusicStore\MvcMusicStore\bin\System.Web.WebPages.Deployment.dll
+C:\Users\26864\Documents\Tencent Files\2686469571\FileRecv\怀总\MvcMusicStore\MvcMusicStore\bin\System.Web.WebPages.dll
+C:\Users\26864\Documents\Tencent Files\2686469571\FileRecv\怀总\MvcMusicStore\MvcMusicStore\bin\System.Web.WebPages.Razor.dll
+C:\Users\26864\Documents\Tencent Files\2686469571\FileRecv\怀总\MvcMusicStore\MvcMusicStore\bin\WebGrease.dll
+C:\Users\26864\Documents\Tencent Files\2686469571\FileRecv\怀总\MvcMusicStore\MvcMusicStore\bin\EntityFramework.xml
+C:\Users\26864\Documents\Tencent Files\2686469571\FileRecv\怀总\MvcMusicStore\MvcMusicStore\bin\EntityFramework.SqlServer.xml
+C:\Users\26864\Documents\Tencent Files\2686469571\FileRecv\怀总\MvcMusicStore\MvcMusicStore\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\26864\Documents\Tencent Files\2686469571\FileRecv\怀总\MvcMusicStore\MvcMusicStore\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\26864\Documents\Tencent Files\2686469571\FileRecv\怀总\MvcMusicStore\MvcMusicStore\bin\Microsoft.AI.Web.xml
+C:\Users\26864\Documents\Tencent Files\2686469571\FileRecv\怀总\MvcMusicStore\MvcMusicStore\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\26864\Documents\Tencent Files\2686469571\FileRecv\怀总\MvcMusicStore\MvcMusicStore\bin\Microsoft.ApplicationInsights.xml
+C:\Users\26864\Documents\Tencent Files\2686469571\FileRecv\怀总\MvcMusicStore\MvcMusicStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\26864\Documents\Tencent Files\2686469571\FileRecv\怀总\MvcMusicStore\MvcMusicStore\bin\System.Web.Helpers.xml
+C:\Users\26864\Documents\Tencent Files\2686469571\FileRecv\怀总\MvcMusicStore\MvcMusicStore\bin\System.Web.Mvc.xml
+C:\Users\26864\Documents\Tencent Files\2686469571\FileRecv\怀总\MvcMusicStore\MvcMusicStore\bin\System.Web.Optimization.xml
+C:\Users\26864\Documents\Tencent Files\2686469571\FileRecv\怀总\MvcMusicStore\MvcMusicStore\bin\System.Web.Razor.xml
+C:\Users\26864\Documents\Tencent Files\2686469571\FileRecv\怀总\MvcMusicStore\MvcMusicStore\bin\System.Web.WebPages.xml
+C:\Users\26864\Documents\Tencent Files\2686469571\FileRecv\怀总\MvcMusicStore\MvcMusicStore\bin\System.Web.WebPages.Deployment.xml
+C:\Users\26864\Documents\Tencent Files\2686469571\FileRecv\怀总\MvcMusicStore\MvcMusicStore\bin\System.Web.WebPages.Razor.xml
+C:\Users\26864\Documents\Tencent Files\2686469571\FileRecv\怀总\MvcMusicStore\MvcMusicStore\bin\Antlr3.Runtime.pdb
+C:\Users\26864\Documents\Tencent Files\2686469571\FileRecv\怀总\MvcMusicStore\MvcMusicStore\bin\Newtonsoft.Json.xml
+C:\Users\26864\Documents\Tencent Files\2686469571\FileRecv\怀总\MvcMusicStore\MvcMusicStore\bin\zh-Hans\System.Web.Helpers.resources.dll
+C:\Users\26864\Documents\Tencent Files\2686469571\FileRecv\怀总\MvcMusicStore\MvcMusicStore\bin\zh-Hans\System.Web.Mvc.resources.dll
+C:\Users\26864\Documents\Tencent Files\2686469571\FileRecv\怀总\MvcMusicStore\MvcMusicStore\bin\zh-Hans\System.Web.Optimization.resources.dll
+C:\Users\26864\Documents\Tencent Files\2686469571\FileRecv\怀总\MvcMusicStore\MvcMusicStore\bin\zh-Hans\System.Web.Razor.resources.dll
+C:\Users\26864\Documents\Tencent Files\2686469571\FileRecv\怀总\MvcMusicStore\MvcMusicStore\bin\zh-Hans\System.Web.WebPages.resources.dll
+C:\Users\26864\Documents\Tencent Files\2686469571\FileRecv\怀总\MvcMusicStore\MvcMusicStore\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+C:\Users\26864\Documents\Tencent Files\2686469571\FileRecv\怀总\MvcMusicStore\MvcMusicStore\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+C:\Users\26864\Documents\Tencent Files\2686469571\FileRecv\怀总\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.csprojResolveAssemblyReference.cache
+C:\Users\26864\Documents\Tencent Files\2686469571\FileRecv\怀总\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.dll
+C:\Users\26864\Documents\Tencent Files\2686469571\FileRecv\怀总\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.pdb
